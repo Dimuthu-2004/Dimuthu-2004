@@ -5,12 +5,9 @@
 # 💫 Hey, I'm Dimuthu 👋  
 ### AI Enthusiast | Full-Stack Developer | System Builder
 
-</div>
-
 <div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/neural-network.gif" width="500"/>
 </div>
-
 ---
 
 <div align="center">
@@ -103,4 +100,6 @@ I don't test in production. Production tests me.
 
 <img src="https://komarev.com/ghpvc/?username=Dimuthu-2004&label=PROFILE+VIEWS&color=brightgreen&labelColor=000000&style=for-the-badge" height="45"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=200&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=01001001+01000001+00100000;01000010+01010101+01001001+01001100+01000100;01010011+01011001+01010011+01010100+01000101+01001101" />
 </div>
