@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6A00FF&height=200&section=header&text=Dimuthu%20Fonseka&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6A00FF&height=200&section=header&text=Undergraduate%20@%20SLIIT&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38" /><div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Full-Stack+System+Builder;Learning.+Building.+Scaling." />
 
@@ -19,7 +17,7 @@
 
 ## 🚀 About Me
 
-I’m a full-stack developer passionate about building intelligent, real-world systems powered by AI and modern web technologies.  
+I’m passionate about building intelligent, real-world systems powered by AI and modern web technologies.  
 I enjoy designing scalable backend architectures, crafting smooth frontend experiences, and turning complex ideas into production-ready applications.  
 Currently exploring deep learning, system design, and high-performance software engineering.
 
@@ -101,7 +99,8 @@ Currently exploring deep learning, system design, and high-performance software 
 ### ✨ Fun Fact
 I don't test in production. Production tests me.
 
-<br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dimuthu-2004&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Dimuthu-2004&label=PROFILE+VIEWS&color=brightgreen&labelColor=000000&style=for-the-badge" height="45"/>
+
 </div>
